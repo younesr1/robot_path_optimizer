@@ -4,8 +4,8 @@ This Path Optimizer algorithm is the final step in a Maze Solver project.
 
 ## Author
 
-Younes Reda
-email: yreda@uwaterloo.ca
+Younes Reda   
+yreda@uwaterloo.ca
 
 ## TL;DR
 
