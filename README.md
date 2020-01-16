@@ -87,6 +87,6 @@ The next step for this project is to add a GUI element to it, in order to make i
 ## Short Comings/ Next Steps
 
 Below are images of the robot and maze. (Size 12 shoe for reference!)
-![] (images/maze.jpg)
-![] (images/robot_side_profile.png)
-![] (images/robot_side_profile.jpg)
+![](images/maze.jpg)
+![](images/robot_side_profile.png)
+![](images/robot_side_profile2.jpg)
