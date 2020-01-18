@@ -84,7 +84,7 @@ A potential solution to this is to make the algorithm recursive and have it end 
 
 The next step for this project is to add a GUI element to it, in order to make its presentation easier and more intuitive to understand.
 
-## Example
+## Images
 
 Below are images of the robot and maze. (Size 12 shoe for reference!)
 ![](images/maze.jpg)
